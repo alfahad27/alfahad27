@@ -1,6 +1,7 @@
 
 
-![Uploading Black Technology LinkedIn Banner.png…]()
+![Black Technology LinkedIn Banner](https://github.com/alfahad27/alfahad27/assets/135044027/9df39fb0-e316-43d0-a07d-bbd5efcf5dbf)
+
 
 - 👋 Hi, I’m @alfahad27
 - 👀 I’m interested in ...
