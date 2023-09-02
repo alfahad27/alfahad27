@@ -1,9 +1,7 @@
 
+![Architect Linkedin Background](https://github.com/alfahad27/alfahad27/assets/135044027/a342b860-91f7-4ab6-91e8-a5720c874577)
 
-![Black Technology LinkedIn Banner](https://github.com/alfahad27/alfahad27/assets/135044027/9df39fb0-e316-43d0-a07d-bbd5efcf5dbf)
 <h3 align="center">I'm a passionate developer who loves to create amazing web experiences. Here's a bit about me:</h3>
-
-<p align="left"> <a href="https://twitter.com/fxhxd_27" target="blank"><img src="https://img.shields.io/twitter/follow/fxhxd_27?logo=twitter&style=for-the-badge" alt="fxhxd_27" /></a> </p>
 
 - take a look at my project [yamistore](https://github.com/alfahad27/YamiStore-Ecommerce-html-css-website.git)
 
