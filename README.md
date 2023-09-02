@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fxhxd_27" target="blank"><img src="https://img.shields.io/twitter/follow/fxhxd_27?logo=twitter&style=for-the-badge" alt="fxhxd_27" /></a> </p>
 
-- 🔭 take a look at my projects [yamistore](https://github.com/alfahad27/YamiStore-Ecommerce-html-css-website.git)
+- take a look at my project [yamistore](https://github.com/alfahad27/YamiStore-Ecommerce-html-css-website.git)
 
 - skills **html,css,js,react,phyton,django & figma**
 
@@ -26,7 +26,6 @@
 <a href="https://twitter.com/fxhxd_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fxhxd_27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alfahadbasha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfahadbasha27" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22441114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22441114" height="30" width="40" /></a>
-<a href="https://fb.com/fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahad" height="30" width="40" /></a>
 <a href="https://instagram.com/fxhad27_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxhad27_" height="30" width="40" /></a>
 <a href="https://discord.gg/alfahad27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alfahad27" height="30" width="40" /></a>
 </p>
