@@ -1,3 +1,7 @@
+
+
+![Uploading Black Technology LinkedIn Banner.png…]()
+
 - 👋 Hi, I’m @alfahad27
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
