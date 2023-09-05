@@ -11,7 +11,7 @@
 
 - Project 3 [Your weather](https://github.com/alfahad27/your-weather.git)
 
-- 👨‍💻 All of my projects are available at [https://alfahad27.github.io/Myportfolio/](https://alfahad27.github.io/Myportfolio/)
+- 👨‍💻 my portfolio [https://alfahad27.github.io/Myportfolio/](https://alfahad27.github.io/Myportfolio/)
 
 - 💬 Ask me about **react,html and css**
 
